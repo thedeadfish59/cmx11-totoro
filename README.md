@@ -17,34 +17,65 @@ Implemented Samurai Kernel for better performance, added OC and modifed modules,
 
 
 --Fastest CM11 rom for this device( Comparing to stock CM11)
+
 --Zipaligned and Optimized
+
 --New music player material themed
+
 --Included Pinaslang nethunter kernel
+
 --Marshamallow launcher
+
 --Marshmallow EasterEgg
+
 --Marshmallow Game
+
 --Material keyboard(Choose Material theme in settings)
+
 --Color Emojis
+
 --MiExplorer added for fast file access
+
 --Material Camera
+
 --Tinted xposed module
+
 --ViperFX app
+
 --Auto tint status bar(Credit: Fmd Team for color smali)
+
 --Material Animations
+
 --Material Spinners
+
 --Material Progressbar styles
+
 --Ripple Effects(Non smali-PNG series method, so effect will show only from center gravity)
+
 --Added Material themed Dialer
+
 --Added Material themed Contacts app
+
 --Added Material themed Messaging app
+
 --Added Material themed Browser
+
 --Added Material Themed Memo App (Credits: @Zane Kilgore )
+
 --Added Material themed Memo app
+
 --Whole Material UI(Experimental)
+
 --Added Material themed Incoming Call UI
+
 --Material recent apps panel
+
 --Material Settings app
+
 --Performance optimized
+
 --Pure LDPI framework and apps for best performance on 4.4+
+
 --Material SystemUI
+
 --System partition increased to 45MB (Do what you want to do now )
