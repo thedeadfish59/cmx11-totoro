@@ -22,7 +22,7 @@ Implemented Samurai Kernel for better performance, added OC and modifed modules,
 
 --New music player material themed
 
---Included Pinaslang nethunter kernel
+--Included Samurai Kernel
 
 --Marshamallow launcher
 
