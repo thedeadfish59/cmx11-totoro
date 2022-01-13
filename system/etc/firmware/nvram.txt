@@ -65,4 +65,3 @@ sd_gpval=1
 btc_params80=0
 btc_params6=10
 btc_params8=10000
-iqlocalidx2g=64

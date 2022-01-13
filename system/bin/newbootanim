@@ -1,7 +1,0 @@
-#!/system/bin/sh
-if [ -e /sdcard/bootanimation.zip ];
-	then
-		cp /sdcard/bootanimation.zip /data/local/bootanimation.zip
-fi
-sleep 1
-echo "new boot animation set."

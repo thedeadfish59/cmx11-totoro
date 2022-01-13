@@ -1,5 +1,0 @@
-#!/system/bin/sh
-#
-# Fix script's perms
-chmod 0777 /system/etc/init.d/*
-# That was it. Simple, isn't it? :p
