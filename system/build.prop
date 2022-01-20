@@ -100,7 +100,7 @@ ro.cm.releasetype=RELEASE
 ro.modversion=CMX11-20161011-Material
 ro.cmlegal.url=http://www.cyanogenmod.org/docs/privacy
 persist.sys.recovery_update=false
-ro.cm.display.version=CMX11-20161011-Material-torino
+ro.cm.display.version=CMX11-torino
 persist.sys.dalvik.vm.lib=libdvm.so
 dalvik.vm.lockprof.threshold=500
 dalvik.vm.dexopt-flags=m=y

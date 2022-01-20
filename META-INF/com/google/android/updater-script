@@ -1,6 +1,6 @@
 ui_print("CMX 11 Project");
-ui_print("Build: alpha");
-ui_print("Current version: 1.0 alpha");
+ui_print("Build: stable");
+ui_print("Current version: 1.1");
 ui_print("Formatting storage");
 format("yaffs2", "MTD", "system", "0", "/system");
 format("yaffs2", "MTD", "data", "0", "/data");
