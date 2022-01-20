@@ -41,7 +41,6 @@ debug.hwui.render_dirty_regions=false
 debug.sf.no_hw_vsync=1
 ro.lge.proximity.delay=25
 mot.proximity.delay=25
-qemu.hw.mainkeys=0
 persist.sys.prefer_16bpp=1
 ro.hwui.layer_cache_size=0
 ro.opengles.surface.rgba8888=true
