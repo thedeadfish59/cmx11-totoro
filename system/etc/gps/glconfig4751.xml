@@ -19,7 +19,6 @@
      lcsApiSockName="/data/lcs.socket"
      cpApiSockName="/data/rilgps.socket"
 	gpioNStdbyPath="/sys/class/gpio/gpio56"
-	gpioNResetPath="/sys/class/gpio/gpio23"
   />
 
   <!-- Parameters passed to GlEngine   -->
@@ -39,10 +38,10 @@
        LogFacMask="LOG_GLLAPI | LOG_NMEA | LOG_RAWDATA | LOG_DEVKF" 
        FrqPlan="FRQ_PLAN_26MHZ_2PPM_26MHZ_300PPB" 
          
-       RfType="GL_RF_4751_DANUBE_EXT_LNA"
+       RfType="GL_RF_47511_BRCM_EXT_LNA"
 	   
 	   PeriodicTimeOutSec="175"
-       WarmStandbyTimeout1Seconds="30"   
+       WarmStandbyTimeout1Seconds="10"   
        WarmStandbyTimeout2Seconds="80"	   
   />
 <gll>  

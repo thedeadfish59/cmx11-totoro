@@ -1,3 +1,3 @@
-post-build=Samsung/cmx/cooperve:4.4.4/KTU84Q/20150211:userdebug/release-keys
+post-build=Samsung/cmx/torino:4.4.4/KTU84Q/20150211:userdebug/release-keys
 post-timestamp=1423655436
-pre-device=cooperve
+pre-device=torino
